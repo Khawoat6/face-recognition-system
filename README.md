@@ -2,7 +2,8 @@
 
 Meta-repo for Face Recognition project 
 
-![Imgur](https://i.imgur.com/UQexDsy.png)
+<img width="1251" alt="Screenshot 2019-10-29 04 50 47" src="https://user-images.githubusercontent.com/31565676/67720918-dd897900-fa07-11e9-9069-a6e5f8ed3f7a.png">
+
 
 This is senior project under Computer Engineering department, Kasetsart University Sriracha Campus
 
