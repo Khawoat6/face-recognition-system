@@ -44,7 +44,8 @@ These are basic concept of quantum computing that we covered:
 
 ## Use cases
 
-![Use cases](https://i.imgur.com/lxoiStp.png)
+<img width="1249" alt="Screenshot 2019-10-29 04 55 05" src="https://user-images.githubusercontent.com/31565676/67721100-5092ef80-fa08-11e9-8258-bfd7a276b75a.png">
+
 
 Quantarium user attendees can interact with quantarium one person at the time in general case. Use case can be splitted into 2 part:
 1. Storyteller - We want to explain quantum computing story it in the interesting and friendly way especially for novice user.
@@ -69,15 +70,14 @@ Projection mapping technique on the bloch sphere
 
 ## Example demo
 
-![Preview gate](https://i.imgur.com/pXLX9Dn.gif)
+
 
 Preview quantum gate effect on qubit
 
-![Add gate](https://i.imgur.com/RVozl63.gif)
+
 
 Add gate to the qubit and see the state change
 
-![Measure](https://i.imgur.com/cmCFIOE.gif)
 
 Measure the qubit and see the result
 ## Using this repo
