@@ -53,7 +53,8 @@ Quantarium user attendees can interact with quantarium one person at the time in
 
 ## Architecture
 
-![Imgur](https://i.imgur.com/FAIQPYh.png)
+<img width="1249" alt="Screenshot 2019-10-29 04 53 16" src="https://user-images.githubusercontent.com/31565676/67721008-0f9adb00-fa08-11e9-9144-1fae365a00ac.png">
+
 
 Our project consist of 3 main parts:
 1. Frontend web appllication on tablet providing user interface for user to follow the storytelling tutorial or controling qubit simulation.
